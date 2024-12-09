@@ -1,1 +1,3 @@
-# TxtEncryptor
+# TXTEncryptor
+
+Simple .txt encryptor by Pierogov
